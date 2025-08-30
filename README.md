@@ -4,7 +4,7 @@ Raman Spectroscopy visulation within Jupyter Notebooks, designed with the intent
 ## How to run ##
 Each notebook generates a specific "style"
 * Individual Spectras 
-* Overlaid Spectras
+* Overlaid Spectras - In Progress
 
 Once you choose a notebook to run, make sure to install the packages listed in the requirements.txt file
    
