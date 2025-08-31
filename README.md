@@ -17,3 +17,19 @@ Once you choose a notebook to run, make sure to install the packages listed in t
 ```pip list```
 
 Then in the "dir" variable, enter the file path of the folder containing the .txt raw files
+
+
+## Sample Stacked spectras
+
+
+
+![Stacked.png](Sample%20Images/Stacked.png)
+
+
+
+
+
+## Sample Individual Spectra
+
+
+![Individual.png](Sample%20Images/Individual.png)
